@@ -7,6 +7,13 @@ Sometimes you do not know the solution of the project problem. Sometimes you do 
 How will you create a roadmap for the next year ?
 The planning generator artificial intelligence is made for you.
 
+## Installation
+
+```
+git clone https://github.com/hadrienblanc/planning_generator.git
+cd planning_generator
+./plan.sh
+```
 
 ## Examples
  
