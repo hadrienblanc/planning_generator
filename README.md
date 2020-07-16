@@ -35,8 +35,8 @@ cd planning_generator
 2 days : collaboration backlog priority
 6 days : analyse database performance
 7 days : spike data model edge cases
-7 days : reseach API Endpoints
-4 days : reseach macro architecture design
+7 days : research API Endpoints
+4 days : research macro architecture design
 6 days : study API Endpoints
 3 days : spike exception management
 2 days : spike backlog priority
